@@ -100,8 +100,8 @@ It was difficult to use different types of filter the information: by functions,
 **What are some other possible tables and/or graphs that we could create?**
 
   We can made analysis based on another types of parent categories, analysis based on the countrys or the years, etc. For example this analysis of what parent           categorie is more successful in the world:
-
-![World's successful parent categories](https://user-images.githubusercontent.com/21062253/135380263-a650e465-6f45-40e3-ac01-29393cfb17fc.png)
+  
+  ![World's successful parent categories](https://user-images.githubusercontent.com/21062253/135382305-d80173e8-6aa0-4551-9f9d-55a780312c77.png)
                                                             _Image 4: World's successful parent categories_
 
 Were the result was that teather is the more succesfful parent categorie around the world!
