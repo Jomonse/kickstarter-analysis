@@ -44,20 +44,19 @@ For the both analysis was neccessary to read carefully the instructions of what 
 
 <img width="960" alt="hint deliverable 1" src="https://user-images.githubusercontent.com/21062253/135374154-d063cd90-7737-4a80-8eb2-a9228a652d70.png">
 
-                                                   *Image 1: Hint pivot table*
+                                                   _Image 1: Hint pivot table_ 
                                                   
 Because it could be a little confused to know what data colected in the pivot table and where to drag it, but the image clear your doubts and help you to be sure what you're doing and if the result is the expected.
 
 The second analysis were a little bit more difficult, more because I have excel in spanish and the function name was different of what I believe, also at first I was using the function bad and I did'n understand what I was doing wrong, but the following video clear my doubts and then I was able to do it right:
-
-              [COUNTIFS function](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us)
+           
               [COUNTIFS](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us)
                                                   
 ### Analysis of Outcomes Based on Launch Date
 In this analysis a pivot table was made to see the outcomes respect to the month that a theater was launched, then a line chart was made reflecting the following results:
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/21062253/135376218-48c78add-cad4-4fbf-a100-809a1c935e7f.png)
-                                                 *Image 2: Outcomes Based on Launch Date*
+                                                 _Image 2: Outcomes Based on Launch Date_
 
 1. May is the best month to launch a theather
 2. If a theather is launched in october it is probably that it would not be canceled, also is the third month with more successful theaters. The second one is febraury
