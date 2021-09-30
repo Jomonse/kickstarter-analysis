@@ -42,7 +42,7 @@ The main purpose of the analysis was to see the behaviour of the outcomes of the
 ## Analysis and Challenges
 For the both analysis was neccessary to read carefully the instructions of what was expected, for the first one was really helpful to see the following image:
 
-<img width="960" alt="hint deliverable 1" src="https://user-images.githubusercontent.com/21062253/135374154-d063cd90-7737-4a80-8eb2-a9228a652d70.png">
+![hint deliverable 1](https://user-images.githubusercontent.com/21062253/135382020-2191f555-bf61-478b-9eb9-1b8578699296.png)
                                                    _Image 1: Hint Pivot Table_
                                                   
 Because it could be a little confused to know what data colected in the pivot table and where to drag it, but the image clear your doubts and help you to be sure what you're doing and if the result is the expected.
@@ -98,7 +98,7 @@ It was difficult to use different types of filter the information: by functions,
   We can made analysis based on another types of parent categories, analysis based on the countrys or the years, etc. For example this analysis of what parent           categorie is more successful in the world:
 
 ![World's successful parent categories](https://user-images.githubusercontent.com/21062253/135380263-a650e465-6f45-40e3-ac01-29393cfb17fc.png)
-                                                            _Image 4: Wprd's successful parent categories_
+                                                            _Image 4: World's successful parent categories_
 
 Were the result was that teather is the more succesfful parent categorie around the world!
 
