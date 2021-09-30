@@ -49,7 +49,6 @@ Because it could be a little confused to know what data colected in the pivot ta
 
 The second analysis were a little bit more difficult, more because I have excel in spanish and the function name was different of what I believe, also at first I was using the function bad and I did'n understand what I was doing wrong, but the following video clear my doubts and then I was able to do it right:
            
-              [COUNTIFS](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us)
               [https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us](url)
                                                   
 ### Analysis of Outcomes Based on Launch Date
