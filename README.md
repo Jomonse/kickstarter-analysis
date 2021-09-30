@@ -49,7 +49,7 @@ Because it could be a little confused to know what data colected in the pivot ta
 
 The second analysis were a little bit more difficult, more because I have excel in spanish and the function name was different of what I believe, also at first I was using the function bad and I did'n understand what I was doing wrong, but the following video clear my doubts and then I was able to do it right:
            
-              [https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us](url)
+              [COUNTIFS](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us)
                                                   
 ### Analysis of Outcomes Based on Launch Date
 In this analysis a pivot table was made to see the outcomes respect to the month that a theater was launched, then a line chart was made reflecting the following results:
@@ -62,17 +62,43 @@ In this analysis a pivot table was made to see the outcomes respect to the month
 3. It could be said that there is the same probability of failure or success if a theater is launched in december
 
 ### Analysis of Outcomes Based on Goals
+In this analysis the following table was created:
+
+![imagen](https://user-images.githubusercontent.com/21062253/135377253-ef00954c-4a86-4736-baa0-de041fab8843.png)
+                                                  _Table 1: Outcomes Based on Goals data_
+
+For the creation of the table a function called countifs() was neccessary, where it filters for the plays the information based on the goals established in the first column of the table and the outcomes (successful, canceled, and failed). Also for the information needed in the table for the analysis, the percentage of every outcome was calculated. Finnaly as in the first analysis a line chart was created with the information of the table:
+
+![Outcomes Based on Goal](https://user-images.githubusercontent.com/21062253/135377741-1e6e44d2-cd1e-4758-8852-600da2099d4d.png)
+                                                _Image 3: Outcomes Based on Launch Date_
+                                                
+ The chart tell us that:
+ 1. There aren't plays canceled
+ 2. If the goal is between 45000 and 49999 inclusive, there are 0% probabilities of success and 100% of probabilities to failed
+ 3. If the goal is less than 15000 there are more probabilities to success than fail.
+ 4. The lower the goal the better.
 
 ### Challenges and Difficulties Encountered
 
+It was difficult to use different types of filter the information: by functions, pivot tables, boxplots, etc. But I think it would be more difficult in the future to know wich one use without having specific instruction, nevermind is usefull to know different ways so in the future we can fullfill the expectations of our clients.
+
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+ **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+  1. That is better to launch a theater on may 
+  2. If you don't launched it in may it is better on october, becuase even it is the third month with successful outcomes it doesn't have canceled ones.
 
-- What can you conclude about the Outcomes based on Goals?
+**What can you conclude about the Outcomes based on Goals?**
+  You should reach a lower goal if you want a successful play.
 
-- What are some limitations of this dataset?
+**What are some limitations of this dataset?**
+  That the results of each type of content depends on the consumer, and this one could be afected by many things such as what is on trend, what is happening on the     world, largest age group of the population, etc. One example is our reallity now that we're leaving a pandemic, because people started to use more streaming           platforms to see movies and series, because they couldn't go to a movie teather or to another recreation place.
 
-- What are some other possible tables and/or graphs that we could create?![Uploading hint deliverable 1.png…]()
+**What are some other possible tables and/or graphs that we could create?**
+  We can made analysis based on another types of parent categories, analysis based on the countrys or the years, etc. For example this analysis of what parent           categorie is more successful in the world:
 
+![World's successful parent categories](https://user-images.githubusercontent.com/21062253/135380263-a650e465-6f45-40e3-ac01-29393cfb17fc.png)
+                                                            _Image 4: Wprd's successful parent categories_
+
+Were the result was that teather is the more succesfful parent categorie around the world!
 
