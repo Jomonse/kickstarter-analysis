@@ -85,16 +85,20 @@ It was difficult to use different types of filter the information: by functions,
 ## Results
 
  **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+ 
   1. That is better to launch a theater on may 
   2. If you don't launched it in may it is better on october, becuase even it is the third month with successful outcomes it doesn't have canceled ones.
 
 **What can you conclude about the Outcomes based on Goals?**
+
   You should reach a lower goal if you want a successful play.
 
 **What are some limitations of this dataset?**
+
   That the results of each type of content depends on the consumer, and this one could be afected by many things such as what is on trend, what is happening on the     world, largest age group of the population, etc. One example is our reallity now that we're leaving a pandemic, because people started to use more streaming           platforms to see movies and series, because they couldn't go to a movie teather or to another recreation place.
 
 **What are some other possible tables and/or graphs that we could create?**
+
   We can made analysis based on another types of parent categories, analysis based on the countrys or the years, etc. For example this analysis of what parent           categorie is more successful in the world:
 
 ![World's successful parent categories](https://user-images.githubusercontent.com/21062253/135380263-a650e465-6f45-40e3-ac01-29393cfb17fc.png)
