@@ -28,4 +28,4 @@ Finally it is important to know how to invest, for this analysis the focus were 
 
 Here we can see that the smartest invest should be under £2000.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-More or ess this is the informaion ypu could see on this Excel but you can downloaded and make you're on analysis, have fun!
+More or less this is the informaion ypu could see on this Excel but you can downloaded and make you're on analysis, have fun!
