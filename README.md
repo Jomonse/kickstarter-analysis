@@ -18,21 +18,6 @@ Some analysis were made with this information:
   In conclusion we can say based on the results that if you want to launch something, you should lauch a teather play.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 So the information is clear, plays is the best option to take, but how much do we can spect to earn in an especific country such as US, well using descriptive statistics is possible to see the data behaviour on what's the goal and the pledge
-US Play	Successful	Failed
-Mean Goal	$5,049	$10,554
-Median Goal	$3,000	$5,000
-Standard Deviation of Goal	$7,749	$21,968
-Upper Quartile of Goal	$5,000	$10,000
-Lower Quartile of Goal	$1,500	$2,000
-IQR of Goal	$3,500	$8,000
-		
-Mean Pledged	$5,602	$559
-Median Pledged	$3,168	$103
-Standard Deviation of Goal	$8,335	$1,331
-Upper Quartile of Goal	$5,699	$501
-Lower Quartile of Goal	$1,717	$9
-IQR of Goal	$3,982	$492
-
 ![imagen](https://user-images.githubusercontent.com/21062253/135365571-5d0a82a0-2aa3-4fb9-8ce1-90c6c1aca9a3.png)
 
 The result was that in a successful scenario the results beetween what is espect vs what is the real result don't vary significantly, obviously when it is failed they does, but in general you earn what you spect.
